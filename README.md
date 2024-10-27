@@ -1,4 +1,4 @@
-<h1 align="center">👋Hi there, I'm Madan!</h1>
+<h1 align="center">👋Hi there, I'm Mani!</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 
@@ -9,13 +9,13 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on **Web Development (NextJS) and JavaScript as a Core Language.**
+- 🔭 I’m currently working on **Web Development (NextJS,ReactJS,Redux) and JavaScript as a Core Language.**
 
-- 🌱 I’m currently learning **NextJS and Data structure and Algorithm.**
+- 🌱 I’m currently learning **Data structure and Algorithm.**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 👨‍💻 All of my links are available at [madanraj-portfolio](https://folio-lovat.vercel.app/)
+- 👨‍💻 All of my links are available at ([https://folio-lovat.vercel.app/](https://mani-portfolio-mern.netlify.app))
 
 - 💬 Ask me about **anything**
 
