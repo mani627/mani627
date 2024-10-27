@@ -38,27 +38,7 @@
 
 <br>
 
-## 🏆  Contributions 🔥
 
-<table align="center">
-<tr>
-<td>
- <a ><img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Madanraj0519&theme=radical" alt="Madan's github stats" height="200" /></a>
-</td>
-<td>
-<a><img src="https://github-readme-streak-stats.herokuapp.com/?user=Madanraj0519&theme=nord&hide_border=true" /></a>
-</td>
-</tr>
-</table>
-
-<br>
-<br>
-
-# 📊 Graph:
-
-[![Madanraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=madanraj0519&bg_color=121212&color=9e4c98&line=9806c1&point=ededed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-----
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madanraj0519&label=Profile%20views&color=0e75b6&style=flat" alt="madanraj0519" /> </p>
 <br>
